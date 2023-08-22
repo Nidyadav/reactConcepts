@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/App.js
+  checksum: 4c98566decaa57ae989f389183c1f661362d3e306426cd20c65967639aeeca4b
+version: ""
